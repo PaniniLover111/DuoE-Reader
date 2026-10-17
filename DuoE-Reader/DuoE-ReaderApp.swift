@@ -13,7 +13,7 @@ import SwiftUI
 struct DuoEReaderApp: App {
     var body: some Scene {
         WindowGroup {
-            Text("Hello, Duo e-reader")
+            ContentView()
         }
     }
 }
